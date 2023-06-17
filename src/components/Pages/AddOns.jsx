@@ -1,5 +1,11 @@
 import React from 'react';
 import prop1 from './../../assets/prop1.jpg';
+import gscreen from './../../assets/gscreen.jpg';
+import socialmedia from './../../assets/socialmedia.jpg';
+import scrapbookfinal from './../../assets/scrapbookfinal.jpg';
+import vmessage from './../../assets/vmessage.jpg';
+import prop101 from './../../assets/prop101.jpg';
+import attendant from './../../assets/attendant.jpg';
 
 const AboutUsPage = () => {
   return (
@@ -43,6 +49,10 @@ const AboutUsPage = () => {
         Ensure a seamless and enjoyable experience with our professional on-site attendants. Our friendly attendants will assist guests, manage props, and provide technical support throughout your event.
       </p>
       <p className="text-gray-700 mb-4">Price: Starting at $75 per hour.</p>
+      <img
+      src={socialmedia}
+     alt="Prop"                  
+   />
     </div>
 
     <div className="bg-white rounded shadow-lg p-6">
@@ -51,6 +61,10 @@ const AboutUsPage = () => {
         Transport your guests to virtual backgrounds or themed locations with our green screen technology. Create captivating and immersive experiences by replacing the backdrop with digital images or custom-designed backgrounds.
       </p>
       <p className="text-gray-700 mb-4">Price: Starting at $375 per event.</p>
+      <img
+      src={gscreen}
+     alt="Prop"                  
+   />
     </div>
 
     <div className="bg-white rounded shadow-lg p-6">
@@ -59,6 +73,10 @@ const AboutUsPage = () => {
         Add a personal touch with video messaging. Allow guests to record short video messages alongside their photos, creating memorable moments.
       </p>
       <p className="text-gray-700 mb-4">Price: Starting at $220 per event.</p>
+      <img
+      src={vmessage}
+     alt="Prop"                  
+   />
     </div>
 
     <div className="bg-white rounded shadow-lg p-6">
@@ -67,6 +85,10 @@ const AboutUsPage = () => {
         Preserve your memories with our dedicated scrapbook station. Guests can create a physical scrapbook using their photo prints and leave personalized messages.
       </p>
       <p className="text-gray-700 mb-4">Price: Starting at $150 per event.</p>
+      <img
+      src={scrapbookfinal}
+     alt="Prop"                  
+   />
     </div>
   </div>
 
