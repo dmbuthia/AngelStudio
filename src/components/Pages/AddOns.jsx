@@ -72,9 +72,7 @@ const AboutUsPage = () => {
     Make your photo booth experience truly unforgettable by adding these exciting add-ons to your rental package. Let us help you create lasting memories!
   </p>
 
-  <p className="text-gray-700 mt-8">
-    Remember to use appealing visuals and design elements to showcase each add-on option. Including images or icons related to each add-on can help users visualize the enhancements they can incorporate into their event.
-  </p>
+ 
 </div>
 
     </div>
