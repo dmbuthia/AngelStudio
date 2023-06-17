@@ -30,7 +30,7 @@ const AboutUsPage = () => {
       <p className="text-gray-700 mb-4">Price: Starting at $975 per backdrop.</p>
       
       <img
-                   src={prop1}
+                   src={prop101}
                   alt="Prop"                  
                 />
     </div>
@@ -41,6 +41,10 @@ const AboutUsPage = () => {
         Share the excitement of your event with social media integration. Allow guests to instantly share their photos and GIFs on popular platforms like Instagram, Facebook, and Twitter.
       </p>
       <p className="text-gray-700 mb-4">Price: Included in all packages.</p>
+      <img
+      src={socialmedia}
+     alt="Prop"                  
+   />
     </div>
 
     <div className="bg-white rounded shadow-lg p-6">
@@ -50,7 +54,7 @@ const AboutUsPage = () => {
       </p>
       <p className="text-gray-700 mb-4">Price: Starting at $75 per hour.</p>
       <img
-      src={socialmedia}
+      src={attendant}
      alt="Prop"                  
    />
     </div>
