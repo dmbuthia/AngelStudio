@@ -97,8 +97,16 @@ const BookingPage = () => {
               <img
                 className="w-full h-auto mx-auto"
                 src="https://preview.moxcreative.com/amerta/wp-content/uploads/sites/5/2022/02/successful-photographer.jpg"
+               
                 alt="Booking Image"
               />
+              <img
+                className="w-full h-auto mx-auto"
+                src="https://www.signupgenius.com/cms/socialMediaImages/appointment-scheduling-tips-photographers-article-1200x800.jpg"               
+                alt="Booking Image"
+              />
+
+              
             </div>
           </div>
         </div>

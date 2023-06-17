@@ -48,7 +48,7 @@ const Services = () => {
             Service Area
           </h2>
           <p className="text-base text-gray-700 md:text-lg">
-            We believe in cent percent customer satisfaction. Quality services is a must for us. We provide a bunch of services at this moment. Check it out to hire us.
+            We believe in 100% customer satisfaction. Quality services is a must for us. We provide a bunch of services at this moment. Check it out to hire us.
           </p>
         </div>
 

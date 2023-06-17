@@ -13,7 +13,7 @@ const ContactUs = () => {
                 </h3>
                 <div className="mt-4">
                   <p className="text-gray-700">
-                    Phone: <span className="font-semibold">[xxx-xxx-xxxx]</span>
+                    Phone: <span className="font-semibold">[206-999-9999]</span>
                   </p>
                   <p className="text-gray-700">
                     Email: <span className="font-semibold">[admin@angelstudios.com]</span>
@@ -47,7 +47,8 @@ const ContactUs = () => {
                 </h3>
                 <div className="mt-4">
                   <p className="text-gray-700">
-                    [Your Business Address]
+                    [ 3000 NE 4th St
+                       Renton, WA 98056]
                   </p>
                 </div>
               </div>
@@ -143,6 +144,7 @@ const ContactUs = () => {
           <p>
             We value your feedback and inquiries. Please use the contact form above or reach out to us directly via phone or email. Our team will get back to you as soon as possible.
           </p>
+          
           <p>
             If you have questions about availability for a specific date or need further information about our services, please include relevant details in your message. We look forward to assisting you in creating an unforgettable photo booth experience for your event!
           </p>

@@ -4,8 +4,8 @@ import gscreen from './../../assets/gscreen.jpg';
 import socialmedia from './../../assets/socialmedia.jpg';
 import scrapbookfinal from './../../assets/scrapbookfinal.jpg';
 import vmessage from './../../assets/vmessage.jpg';
-import prop101 from './../../assets/prop101.jpg';
 import attendant from './../../assets/attendant.jpg';
+import backdrop from './../../assets/backdrop.jpg';
 
 const AboutUsPage = () => {
   return (
@@ -20,6 +20,10 @@ const AboutUsPage = () => {
         Take your event to the next level with unique and personalized props. Our talented team can design and create custom props tailored to your event theme or branding.
       </p>
       <p className="text-gray-700 mb-4">Price: Starting at $150 per prop.</p>
+      <img
+      src={prop1}
+     alt="Prop"                  
+   />
     </div>
 
     <div className="bg-white rounded shadow-lg p-6">
@@ -30,7 +34,7 @@ const AboutUsPage = () => {
       <p className="text-gray-700 mb-4">Price: Starting at $975 per backdrop.</p>
       
       <img
-                   src={prop101}
+                   src={backdrop}
                   alt="Prop"                  
                 />
     </div>

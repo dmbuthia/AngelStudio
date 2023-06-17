@@ -1013,7 +1013,7 @@ const Pricing = () => {
                     Additional Hours
                   </h3>
                   <p className="mt-2 text-base leading-6 text-gray-700">
-                    Beyond the package duration, you can add additional hours at an extra cost of $XX per hour.
+                    Beyond the package duration, you can add additional hours at an extra cost of $110 per hour.
                   </p>
                 </div>
               </div>
@@ -1093,9 +1093,7 @@ const Pricing = () => {
           <p className="text-base leading-6 text-gray-700">
             Make your event unforgettable with AngelStudio's photo booth rental services. Book today and let the fun begin!
           </p>
-          <p className="mt-4 text-base leading-6 text-gray-700">
-            Include high-quality images for each package that showcase the photo booths, backdrops, props, and the overall experience. These visuals will give potential customers a better understanding of what they can expect from each package and help them make an informed decision.
-          </p>
+          
         </div>
       </div>
     </div>
