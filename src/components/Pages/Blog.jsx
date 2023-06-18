@@ -28,7 +28,7 @@ const Blog = () => {
             <img
             src={booth5}
            alt="booth"
-           style={{ width: '200px', height: 'auto' }}                 
+           style={{ width: '500px', height: 'auto' }}                 
          />
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
@@ -44,7 +44,7 @@ const Blog = () => {
             <img
             src={booth6}
            alt="booth"    
-           style={{ width: '200px', height: 'auto' }}              
+           style={{ width: '500px', height: 'auto' }}              
          />
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
@@ -60,7 +60,7 @@ const Blog = () => {
             <img
             src={propall}
            alt="booth"  
-           style={{ width: '200px', height: 'auto' }}                
+           style={{ width: '500px', height: 'auto' }}                
          />
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
@@ -76,7 +76,7 @@ const Blog = () => {
             <img
             src={backdrop}
            alt="booth"    
-           style={{ width: '200px', height: 'auto' }}              
+           style={{ width: '500px', height: 'auto' }}              
          />
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
@@ -92,7 +92,7 @@ const Blog = () => {
             <img
             src={greenscreen1}
            alt="booth"        
-           style={{ width: '200px', height: 'auto' }}          
+           style={{ width: '500px', height: 'auto' }}          
          />
           </div>
         </div>
